@@ -1,0 +1,1 @@
+# Students-Database-Bash-Script-For-PSQL
